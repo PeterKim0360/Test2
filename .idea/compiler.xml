@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven04_javaweb_zi" />
+        <module name="maven03_javaweb" />
+        <module name="maven01_JavaSE" />
+        <module name="maven-nexus" />
+        <module name="maven02_javaweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="maven_02_javaweb" target="21" />
+      <module name="maven_son" target="21" />
+      <module name="untitled" target="21" />
+      <module name="untitled1" target="21" />
+      <module name="untitled2" target="21" />
+      <module name="untitled3" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
